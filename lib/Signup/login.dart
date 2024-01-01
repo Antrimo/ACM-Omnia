@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:omnia/Screens/homescreen.dart';
+import 'package:omnia/Screens/Home/homescreen.dart';
 import 'package:omnia/Signup/signup.dart';
 
 class Login extends StatefulWidget {
